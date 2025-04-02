@@ -20,11 +20,11 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 
 ## Top Projects
 
-[![w-yxn.github.io](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=w-yxn.github.io&theme=dark)](https://github.com/W-YXN/w-yxn.github.io)
+[![w-yxn.github.io](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=w-yxn.github.io)](https://github.com/W-YXN/w-yxn.github.io)
 
-[![Gary-Shoot](https://github-readme-stats.vercel.app/api/pin/?username=GMasterEmbeddedGroup&repo=gary_shoot&theme=dark)](https://github.com/GMasterEmbeddedGroup/gary_shoot)
+[![Gary-Shoot](https://github-readme-stats.vercel.app/api/pin/?username=GMasterEmbeddedGroup&repo=gary_shoot)](https://github.com/GMasterEmbeddedGroup/gary_shoot)
 
-[![Snake-Battle](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=Snake-Battle&theme=dark)](https://github.com/W-YXN/Snake-Battle)
+[![Snake-Battle](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=Snake-Battle)](https://github.com/W-YXN/Snake-Battle)
 
 
 ## GitHub Stats
@@ -32,8 +32,8 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 👥 **Followers**: 14  
 🔄 **Following**: 16  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog Posts
 

@@ -8,7 +8,7 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 
 ## Skills & Technologies
 
-cpp,c,cs,unity,py,ros,ubuntu
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,unity,py,ros,ubuntu&perline=8)](https://skillicons.dev)
 
 ## Publications
 
@@ -20,22 +20,20 @@ cpp,c,cs,unity,py,ros,ubuntu
 
 ## Top Projects
 
-- [w-yxn.github.io](https://github.com/W-YXN/w-yxn.github.io): Personal website. 🌐
-  - Stars: 0, Forks: 0, Language: TeX
+[![w-yxn.github.io](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=w-yxn.github.io&theme=dark)](https://github.com/W-YXN/w-yxn.github.io)
 
-- [Gary-Shoot](https://github.com/GMasterEmbeddedGroup/gary_shoot): A ROS2 package that receives the instructions from the upper node, thus controls the lower hardware nodes. For ROBOMASTER Competitions. 🤖
-  - Stars: 0, Forks: 0, Language: C++
+[![Gary-Shoot](https://github-readme-stats.vercel.app/api/pin/?username=GMasterEmbeddedGroup&repo=gary_shoot&theme=dark)](https://github.com/GMasterEmbeddedGroup/gary_shoot)
 
-- [Snake-Battle](https://github.com/W-YXN/Snake-Battle): A Simple Console-style Snake Game. 🎮
-  - Stars: 2, Forks: 1, Language: C++
+[![Snake-Battle](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=Snake-Battle&theme=dark)](https://github.com/W-YXN/Snake-Battle)
+
 
 ## GitHub Stats
-
 🌟 **Public Repositories**: 3  
 👥 **Followers**: 14  
 🔄 **Following**: 16  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog Posts
 

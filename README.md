@@ -18,19 +18,7 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 
 - [Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games](https://dl.acm.org/doi/abs/10.1145/3651296) - Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2024
 
-## Top Projects
-
-[![w-yxn.github.io](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=w-yxn.github.io)](https://github.com/W-YXN/w-yxn.github.io)
-
-[![Gary-Shoot](https://github-readme-stats.vercel.app/api/pin/?username=GMasterEmbeddedGroup&repo=gary_shoot)](https://github.com/GMasterEmbeddedGroup/gary_shoot)
-
-[![Snake-Battle](https://github-readme-stats.vercel.app/api/pin/?username=W-YXN&repo=Snake-Battle)](https://github.com/W-YXN/Snake-Battle)
-
-
 ## GitHub Stats
-🌟 **Public Repositories**: 3  
-👥 **Followers**: 14  
-🔄 **Following**: 16  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

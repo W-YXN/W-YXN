@@ -25,6 +25,6 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-YXN&theme=github-light)
 
-## Latest Blog Posts
+## My Personal Website
 
-[Visit my blog](http://www.xinan-yan.com).
+[Visit my homepage](http://www.xinan-yan.com).

@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm William Yan, a passionate software developer and contributor! Let's explore the world of coding together.
+I'm Xinan "William" Yan, a passionate software developer and contributor! Let's explore the world of coding together.
 
 ## About Me
 

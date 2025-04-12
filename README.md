@@ -12,11 +12,13 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 
 ## Publications
 
-- [Exploring the effects of spatial constraints and curvature for 3d piloting in virtual environments](https://ieeexplore.ieee.org/abstract/document/10765436/) - 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2024
+- Xuning Hu[^1], **Xinan Yan**[^1], Yushi Wei, Wenxuan Xu, Yue Li, Yue Liu, Hai-Ning Liang. [Exploring the effects of spatial constraints and curvature for 3d piloting in virtual environments](https://ieeexplore.ieee.org/abstract/document/10765436/) - 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2024
 
-- [OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs](https://dl.acm.org/doi/abs/10.1145/3677386.3682084) - Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI), 2024
+- Rajkumar Darbar, Xuning Hu, **Xinan Yan**, Yushi Wei, Hai-Ning Liang, Wenge Xu, Sayan Sarcar. [OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs](https://dl.acm.org/doi/abs/10.1145/3677386.3682084) - Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI), 2024
 
-- [Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games](https://dl.acm.org/doi/abs/10.1145/3651296) - Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2024
+- Boyuan Chen, **Xinan Yan**, Xuning Hu, Dominic Kao, Hai-Ning Liang. [Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games](https://dl.acm.org/doi/abs/10.1145/3651296) - Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2024
+
+[^1]: Co-first authors.
 
 ## GitHub Stats
 

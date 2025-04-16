@@ -4,7 +4,13 @@ I'm Xinan "William" Yan, a passionate software developer and contributor! Let's 
 
 ## About Me
 
-I'm currently based on XJTLU. My focus is on human-computer interaction, embedded systems and software development. Always eager to learn and collaborate!
+I'm currently based on [XJTLU](https://www.xjtlu.edu.cn/en/). My focus is on software development, embedded systems and virtual reality. Always eager to learn and collaborate!
+
+I'm keenly interested in Human-Computer Interaction (HCI)! To streamline finding reproducible research, I've adapted and enhanced a project for tracking arXiv papers：
+
+➡️ **[Daily ArXiv HCI]([https://github.com/your-username/daily-arxiv-hci](https://github.com/W-YXN/arxiv_cs.HC_daily))**
+
+It's a simple tool using GitHub Actions to automatically find and list HCI-related papers with source code links daily. Hope it's useful for others too!
 
 ## Skills & Technologies
 

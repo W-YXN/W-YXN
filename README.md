@@ -8,7 +8,7 @@ I'm currently based on [XJTLU](https://www.xjtlu.edu.cn/en/). My focus is on sof
 
 I'm keenly interested in Human-Computer Interaction (HCI)! To streamline finding reproducible research, I've adapted and enhanced a project for tracking arXiv papers：
 
-➡️ **[Daily ArXiv HCI]([https://github.com/your-username/daily-arxiv-hci](https://github.com/W-YXN/arxiv_cs.HC_daily))**
+➡️ **[Daily ArXiv HCI]([https://github.com/W-YXN/arxiv_cs.HC_daily](https://github.com/W-YXN/arxiv_cs.HC_daily))**
 
 It's a simple tool using GitHub Actions to automatically find and list HCI-related papers with source code links daily. Hope it's useful for others too!
 

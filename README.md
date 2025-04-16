@@ -23,7 +23,7 @@ I'm currently based on XJTLU. My focus is on human-computer interaction, embedde
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-YXN)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-YXN&theme=github-light)
 

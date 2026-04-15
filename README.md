@@ -15,22 +15,22 @@ Currently affiliated with **XJTLU**, **ISCAS**, **Tohoku University**, and **HKU
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,unity,py,ros,linux,git&perline=8)](https://skillicons.dev)
 
-## Selected Publications
+## Recent Publications
 
-- **Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting in Virtual Environments**  
-  *ISMAR 2024*
+- Xuning Hu*, **Xinan Yan***, et al.  
+  **Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting in Virtual Environments** — *ISMAR 2024*
 
-- **OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs**  
-  *SUI 2024*
+- Rajkumar Darbar, Xuning Hu, **Xinan Yan**, et al.  
+  **OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs** — *SUI 2024*
 
-- **N-ary Gaussian Model: Modeling Pointing Uncertainty Across Task Scenarios Using an Automated Multi-Gaussian Modeling Pipeline**  
-  *CHI 2026*
+- Hao Zhang, et al.  
+  **N-ary Gaussian Model: Modeling Pointing Uncertainty Across Task Scenarios Using an Automated Multi-Gaussian Modeling Pipeline** — *CHI 2026*
 
 ## More About Me
 
-🌐 **Homepage:** [xinan-yan.com](http://www.xinan-yan.com)
-
 For a full list of publications, research experience, and ongoing projects, please visit my personal website!
+
+🌐 **Homepage:** [xinan-yan.com](http://www.xinan-yan.com)
 
 ## GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W-YXN&show_icons=true&count_private=true) 

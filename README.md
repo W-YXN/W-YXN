@@ -21,15 +21,15 @@ Currently affiliated with **XJTLU**, and **HKUST(GZ)**.
   *ACM Transactions on Graphics (TOG)*, 2026.  
   [<kbd>📄 Paper</kbd>](https://doi.org/10.1145/3842586) [<kbd>💻 Code</kbd>](https://github.com/W-YXN/IntentGaze) [<kbd>📦 Dataset</kbd>](https://doi.org/10.5281/zenodo.21933665)
 
-- Yan Qi, Xuning Hu, **Xinan Yan**, Wenxuan Xu, Hao Zhang, Hai-Ning Liang, Jin Huang.  
+- Yifan Qi, Xuning Hu, **Xinan Yan**, Wenxuan Xu, Hao Zhang, Hai-Ning Liang, Jin Huang.  
   **Exploring Freehand Selection Techniques of Polyhedron Faces in VR Environments**  
   *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2026.
 
-- Hao Zhang, Yunhan Xiao, Yitong Zheng, Jin Huang, **Xinan Yan**, Xuning Hu, Nianlong Li, Huawei Tu, Feng Tian.  
+- Hao Zhang, Yixiao Xiao, Yawen Zheng, Jin Huang, **Xinan Yan**, Xuning Hu, Nianlong Li, Huawei Tu, Feng Tian.  
   **N-ary Gaussian Model: Modeling Pointing Uncertainty Across Task Scenarios Using an Automated Multi-Gaussian Modeling Pipeline**  
   *ACM CHI*, 2026.
 
-- Xuning Hu\*, **Xinan Yan\***, Yushi Wei, Wenxuan Xu, Yue Li, Yang Liu, Hai-Ning Liang.  
+- Xuning Hu\*, **Xinan Yan\***, Yushi Wei, Wenxuan Xu, Yue Li, Yue Liu, Hai-Ning Liang.  
   **Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting in Virtual Environments**  
   *IEEE ISMAR*, 2024.
 

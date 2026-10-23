@@ -27,15 +27,15 @@ Currently affiliated with **XJTLU**, and **HKUST(GZ)**.
 
 - Hao Zhang, Yixiao Xiao, Yawen Zheng, Jin Huang, **Xinan Yan**, Xuning Hu, Nianlong Li, Huawei Tu, Feng Tian.  
   **N-ary Gaussian Model: Modeling Pointing Uncertainty Across Task Scenarios Using an Automated Multi-Gaussian Modeling Pipeline**  
-  *ACM CHI*, 2026.
+  *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems* (CHI), 2026.
 
 - Xuning Hu\*, **Xinan Yan\***, Yushi Wei, Wenxuan Xu, Yue Li, Yue Liu, Hai-Ning Liang.  
   **Exploring the Effects of Spatial Constraints and Curvature for 3D Piloting in Virtual Environments**  
-  *IEEE ISMAR*, 2024.
+  *IEEE International Symposium on Mixed and Augmented Reality* (ISMAR), 2024.
 
 - Rajkumar Darbar, Xuning Hu, **Xinan Yan**, Yushi Wei, Hai-Ning Liang, Wenxuan Xu, Sayan Sarcar.  
   **OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs**  
-  *ACM SUI*, 2024.
+  *ACM Symposium on Spatial User Interaction* (SUI), 2024.
 
 - Boyuan Chen, **Xinan Yan**, Xuning Hu, Dominick Kao, Hai-Ning Liang.  
   **Impact of Tutorial Modes with Different Time Flow Rates in Virtual Reality Games**  
